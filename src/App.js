@@ -1,7 +1,7 @@
 import Clock from './components/Clock';
 
 function App() {
-    return <Clock local="en-US" />;
+    return <Clock />;
 }
 
 export default App;
